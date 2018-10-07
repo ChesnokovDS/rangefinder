@@ -1,4 +1,4 @@
-Distance, Time
+Distance,Time
 3018, 1092
 98, 1099
 114, 1107
